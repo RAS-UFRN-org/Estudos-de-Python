@@ -8,11 +8,9 @@ for i in range(quantidade):
     numeros = int(input("Digite o numero: "))
     arrayOri.append(numeros)
 
-duplicado = 0
+arrayNovo = []
 for j in range(quantidade):
-    for i in range(quantidade):
-        if arrayOri[i]==arrayOri[j]:
-            duplicado = arrayOri[i]
+    if arrayOri[j] not in arrayNovo:
+        arrayNovo.append(arrayOri[j])
 
-arrayOri.remove(duplicado)
-print(arrayOri)
+print(arrayNovo)
