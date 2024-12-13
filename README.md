@@ -9,4 +9,7 @@ Este repositório é um espaço colaborativo para os integrantes da RAS aprender
 
 ## Como Participar
 
+
+Oi pessoal estou fazendo uma mudança no repositorio!
+
 Crie sua branch com seu nome, faça os exercícios propostos e publique em sua branch, para que os outros possam olhar suas implementações!
